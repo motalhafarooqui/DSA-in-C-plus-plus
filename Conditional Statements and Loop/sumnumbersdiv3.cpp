@@ -1,3 +1,5 @@
+//Code to find the sum of natural numbers which are between 1 and n and are divisible by 3.
+
 /*
 #include <iostream>
 using namespace std;
