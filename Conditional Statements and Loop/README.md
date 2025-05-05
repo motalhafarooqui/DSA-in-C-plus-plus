@@ -1,4 +1,4 @@
-In this folder, I uploaded the files I made while learning the chapter - Conditional Statements and Loop, in which the following topics are covered, practised and implemented.
+In this folder, I uploaded the codes I made while learning the chapter - Conditional Statements and Loop, in which the following topics are covered, practised and implemented.
 
 ✅ Conditional Statements
       -> if-else
