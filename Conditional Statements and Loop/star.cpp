@@ -1,3 +1,5 @@
+//Code to print stars by taking the number of rows and stars in each row as input.
+
 #include <iostream>
 using namespace std;
 int main() {
