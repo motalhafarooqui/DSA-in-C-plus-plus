@@ -1,4 +1,4 @@
-In this folder I uploaded the codes I made while learning the following topics in the Chapter - Variables Datatypes and Operators
+In this folder, I uploaded the codes I made while learning the Chapter - Variables, Datatypes and Operators, in which the following topics are covered, practised and implemented.
 
 ✅ Output
 ✅ How does #code run?
