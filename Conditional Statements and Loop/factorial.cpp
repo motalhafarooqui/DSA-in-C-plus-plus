@@ -1,3 +1,6 @@
+
+//Code to find the factorial of a number entered by the user.
+
 /*
 #include <iostream>
 using namespace std;
