@@ -1,3 +1,5 @@
+//Code to find whether a number is positive or negative using ternary statement.
+
 #include <iostream>
 using namespace std;
 int main() {
