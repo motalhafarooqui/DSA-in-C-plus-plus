@@ -1,3 +1,5 @@
+//Code to print n number of natural numbers.
+
 /*
 #include <iostream>
 using namespace std;
@@ -38,7 +40,7 @@ using namespace std;
 int main() {
     int a, i;
     i = 1;
-    cout << "Enter the number of natural numbers you wamt to print from 1 : " ;
+    cout << "Enter the number of natural numbers you want to print from 1 : " ;
     cin >> a;
 
     do{
