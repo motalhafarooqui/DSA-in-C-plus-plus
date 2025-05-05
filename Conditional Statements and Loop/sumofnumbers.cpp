@@ -1,3 +1,5 @@
+//Code to find the sum of n natural numbers
+
 #include <iostream>
 using namespace std;
 int main() {
